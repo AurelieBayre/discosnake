@@ -1,5 +1,5 @@
 window.onload=function(){
-  const insane = document.getElementById("easy")
+  const easy = document.getElementById("easy")
   const medium = document.getElementById("medium")
   const difficult = document.getElementById("difficult")
   const insane = document.getElementById("insane")
